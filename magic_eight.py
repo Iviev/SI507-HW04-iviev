@@ -19,4 +19,4 @@ def Magic():
             magic_random = randrange(0, len(random_words))
             print(random_words[magic_random])
 
-Magic()
+Magic() #invoking the function magic
