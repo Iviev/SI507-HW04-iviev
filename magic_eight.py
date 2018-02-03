@@ -1,7 +1,7 @@
 from random import randrange
 import random
 
-def Magic():
+def MagicEight():
     myboolean = True
     while myboolean == True:
         question = input("What is your question? To quit, enter 'quit'")
