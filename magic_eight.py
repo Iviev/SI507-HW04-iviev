@@ -20,4 +20,4 @@ def MagicEight():
             magic_random = randrange(0, len(random_words))
             print(random_words[magic_random])
 
-Magic() #invoking the function magic
+MagicEight() #invoking the function magic
